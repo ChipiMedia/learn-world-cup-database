@@ -108,3 +108,13 @@ git remote add origin https://github.com/ChipiMedia/worldcup_project.git
 git add
 git add world .
 git add .
+git commit -m "Initial commit: World Cup database project"
+git push -u origin master
+git remote
+git remote -v
+__vsc_prompt_cmd_original
+git remote add origin https://github.com/ChipiMedia/learn-world-cup-database
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/ChipiMedia/learn-world-cup-database
+git add .
