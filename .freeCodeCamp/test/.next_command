@@ -100,3 +100,11 @@ chmod +x queries.sh
 ./queries
 .queries.sh
 ./queries.sh
+pg-cC --inserts -U freecodecamp > worldcup.sql
+pg_dump -cC --inserts -U freecodecamp > worldcup.sql
+git init
+git remote add origin https://github.com/ChipiMedia/worldcup_project.git
+git remote add origin https://github.com/ChipiMedia/worldcup_project.git
+git add
+git add world .
+git add .
